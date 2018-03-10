@@ -1,2 +1,2 @@
 # LAMP-StackV1
-Development of LAMP development
+Development of LAMP skills
